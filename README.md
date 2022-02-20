@@ -2,9 +2,9 @@
 
 ## Índice
 
-- [Tecnologias Utilizadas](#-Tecnologias-Utilizadas)
-- [Imagem do Projeto](#-Imagem-do-Projeto)
-- [Instalação e Inicialização](#-Instalação-e-Inicialização)
+- [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
+- [Imagem do Projeto](#Imagem-do-Projeto)
+- [Instalação e Inicialização](#Instalação-e-Inicialização)
 
 &nbsp;
 
