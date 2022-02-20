@@ -31,8 +31,9 @@ Projeto original  [Pablo Henrique](https://github.com/pablohdev/app-ifood-clone)
 ---
 
 &nbsp;
-
-<img align='center' heigth="100" src="assets/ifood.gif"/>
+<div align="center">
+  <img align='center' heigth="100" src="assets/ifood.gif"/>
+</div
 
 &nbsp;
 
